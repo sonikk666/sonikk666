@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Привет, меня зовут Никита 👋
+<h1 align="center">Привет, меня зовут Никита
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Интересуюсь программированием, учусь в Я.Практикуме и не собираюсь останавливаться на достигнутом</h3>
+- 📫 How to reach me in telegram: @Nikita_im
 <!--
 **sonikk666/sonikk666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
