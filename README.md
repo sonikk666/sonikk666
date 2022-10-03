@@ -2,7 +2,10 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/sonikk666" target="_blank">Никита</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Интересуюсь программированием, учусь в Я.Практикуме<br>и не собираюсь останавливаться на достигнутом</h3>
-<h3 align="center">Со мной можно связаться <br>в Телеграмм: @Nikita_im <br>или email: sonikk666@yandex.ru</h3>
+<h3 align="center">Со мной можно связаться:<br>
+  <a href="https://t.me/Nikita_im">через Телеграм</a><br> 
+  или по <a href="mailto:sonikk666@yandex.ru">электронной почте</a>
+</h3>
 
 <!--
 **sonikk666/sonikk666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
