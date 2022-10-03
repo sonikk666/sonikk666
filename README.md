@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Интересуюсь программированием, учусь в Я.Практикуме<br>и не собираюсь останавливаться на достигнутом</h3>
 <h3 align="center">Со мной можно связаться:<br>
-  <a href="https://t.me/Nikita_im">через Телеграм</a><br> 
+  <a href="https://t.me/Nikita_im">через Телеграмм</a><br> 
   или по <a href="mailto:sonikk666@yandex.ru">электронной почте</a>
 </h3>
 
