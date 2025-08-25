@@ -1,10 +1,9 @@
 <!-- ### Здравствуй, меня зовут Никита! 👋 -->
 <h1 align="center">Здравствуй, меня зовут <a href="https://github.com/sonikk666" target="_blank">Никита!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Занимаюсь backend-разработкой <br>на Python, C++ и Qt</h3>
-<h3 align="center">Со мной можно связаться:<br>
-  <a href="https://t.me/Nikita_im">через Телеграм</a> 
-  или <a href="mailto:sonikk666@ya.ru">по электронной почте</a>
+<h3 align="center">Я Devops-инженер. Администрирую Linux, пишу свои роли в Ansible, скрипты на Python и многое другое</h3>
+<h3 align="center">Со мной можно связаться:
+  <a href="https://t.me/Nikita_im">через Телеграм</a>
 </h3>
 
 <!--
